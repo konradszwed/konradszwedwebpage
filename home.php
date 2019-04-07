@@ -68,11 +68,11 @@
             <div class="col-12 col-md-6 col-lg-4 no-padding wow fadeIn " data-wow-delay='1s'>
                 <div class="portfolio-content">
                     <figure>
-                        <img src="images/serwis.jpg" alt="">
+                        <img src="images/others.jpg" alt="">
                     </figure>
 
                     <div class="entry-content flex flex-column align-items-center justify-content-center">
-                        <h3><a href="index.php?w=servis">Serwis komputerów i urządzeń elektronicznych</a></h3>
+                        <h3><a href="index.php?w=others">Inne</a></h3>
 
                         
                     </div><!-- .entry-content -->

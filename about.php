@@ -10,6 +10,18 @@
                 </div><!-- .portfolio-content -->
                 <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="pl_PL" data-type="vertical" data-theme="light" data-vanity="konrad-szwed-535a37131"><a class="LI-simple-link" href='https://pl.linkedin.com/in/konrad-szwed-535a37131?trk=profile-badge'>Konrad Szwed</a>
                 </div>
+                
+                <address>
+                  <strong>Adres zameldowania:</strong><br>
+                  Piotrkowska 71 G<br>
+                  Aleksandrów Łódzki 95-070<br>
+                  <abbr title="Phone">Telefon:</abbr> 508 509 689
+                </address>
+
+                <address>
+                  <strong>E-Mail:</strong><br>
+                  <a href="mailto:#">konradszwed11@gmail.com</a>
+                </address>
             </div><!-- .col -->
 
             <div class="col-12 col-md-9 col-lg-9  bgimg">
