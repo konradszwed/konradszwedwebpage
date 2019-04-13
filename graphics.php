@@ -7,6 +7,14 @@
                 <div class="card mb-6">
                     <div class="blog-content">
                         <figure>
+                            <img src="images/others.jpg" class="img-fluid" alt="">
+                        </figure>
+                    </div><!-- .portfolio-content -->
+                </div><!-- .col -->
+                
+                <div class="card mb-6">
+                    <div class="blog-content">
+                        <figure>
                             <img src="media/SiekRoss.jpg" class="img-fluid" alt="">
                         </figure>
                     </div><!-- .portfolio-content -->

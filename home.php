@@ -2,18 +2,6 @@
     <div class="container-fluid">
         <div class="row">
 
-            <div class="col-12 col-md-6 col-lg-4 no-padding wow fadeIn " data-wow-delay='0.2s'>
-                <div class="portfolio-content">
-                    <figure>
-                        <img src="images/programowanie.jpg" alt="">
-                    </figure>
-
-                    <div class="entry-content flex flex-column align-items-center justify-content-center">
-                        <h3><a href="index.php?w=programming">Programowanie</a></h3>
-                    </div><!-- .entry-content -->
-                </div><!-- .portfolio-content -->
-            </div><!-- .col -->
-
             <div class="col-12 col-md-6 col-lg-4 no-padding wow fadeIn "  data-wow-delay='0s'>
                 <div class="portfolio-content">
                     <figure>
@@ -22,6 +10,18 @@
 
                     <div class="entry-content flex flex-column align-items-center justify-content-center">
                         <h3><a href="index.php?w=about">O mnie</a></h3>
+                    </div><!-- .entry-content -->
+                </div><!-- .portfolio-content -->
+            </div><!-- .col -->
+            
+            <div class="col-12 col-md-6 col-lg-4 no-padding wow fadeIn " data-wow-delay='0.2s'>
+                <div class="portfolio-content">
+                    <figure>
+                        <img src="images/programowanie.jpg" alt="">
+                    </figure>
+
+                    <div class="entry-content flex flex-column align-items-center justify-content-center">
+                        <h3><a href="index.php?w=programming">Programowanie</a></h3>
                     </div><!-- .entry-content -->
                 </div><!-- .portfolio-content -->
             </div><!-- .col -->
