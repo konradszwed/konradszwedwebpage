@@ -31,7 +31,7 @@
                 <div class="card mb-6">
                     <div class="blog-content">
                         <figure>
-                            <img src="media/WielkaFalaVHS.jpg" class="img-fluid" alt="">
+                            <img src="images/WielkaFalaVHS.jpg" class="img-fluid" alt="">
                         </figure>
                     </div><!-- .portfolio-content -->
                 </div><!-- .col -->
