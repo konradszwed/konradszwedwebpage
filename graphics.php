@@ -7,7 +7,9 @@
                 <div class="card mb-6">
                     <div class="blog-content">
                         <figure>
-                            <img src="images/others.jpg" class="img-fluid" alt="">
+                            <a href="media/marylinasiul.jpg">
+                                <img src="media/marylinasiul.jpg" class="img-fluid" alt="">
+                            </a>
                         </figure>
                     </div><!-- .portfolio-content -->
                 </div><!-- .col -->
@@ -15,7 +17,9 @@
                 <div class="card mb-6">
                     <div class="blog-content">
                         <figure>
+                        <a href="media/SiekRoss.jpg">
                             <img src="media/SiekRoss.jpg" class="img-fluid" alt="">
+                        </a>
                         </figure>
                     </div><!-- .portfolio-content -->
                 </div><!-- .col -->
@@ -23,7 +27,9 @@
                 <div class="card mb-6">
                     <div class="blog-content">
                         <figure>
+                        <a href="media/waporwave.jpg">
                             <img src="media/waporawave.jpg" class="img-fluid" alt="">
+                        </a>
                         </figure>
                     </div><!-- .portfolio-content -->
                 </div><!-- .col -->
@@ -31,23 +37,20 @@
                 <div class="card mb-6">
                     <div class="blog-content">
                         <figure>
-                            <img src="images/WielkaFalaVHS.jpg" class="img-fluid" alt="">
-                        </figure>
-                    </div><!-- .portfolio-content -->
-                </div><!-- .col -->
-                
-                <div class="card mb-6">
-                    <div class="blog-content">
-                        <figure>
-                            <img src="media/retardy3.jpg" class="img-fluid" alt="">
-                        </figure>
-                    </div><!-- .portfolio-content -->
-                </div><!-- .col -->
-
-                <div class="card mb-6">
-                    <div class="blog-content">
-                        <figure>
+                        <a href="media/bladerunner.jpg">
                             <img src="media/bladerunner.jpg" class="img-fluid" alt="">
+                        </a>
+                        </figure>
+                    </div><!-- .portfolio-content -->
+                </div><!-- .col -->
+                
+                
+                <div class="card mb-6">
+                    <div class="blog-content">
+                        <figure>
+                        <a href="images/WielkaFalaVHS.jpg">
+                            <img src="images/WielkaFalaVHS.jpg" class="img-fluid" alt="">
+                        </a>
                         </figure>
                     </div><!-- .portfolio-content -->
                 </div><!-- .col -->
@@ -55,26 +58,25 @@
                 <div class="card mb-6">
                     <div class="blog-content">
                         <figure>
+                        <a href="media/betterthanricardo.jpg">
                             <img class="card-img-top small" src="media/stworzony.PNG" alt="">
                                 <div class="card-body">
                                    <img src='media/betterthanricardo.jpg' class="img-fluid" alt="">
                                 </div>
+                            </a>
                         </figure>
                     </div><!-- .portfolio-content -->
                 </div><!-- .col -->
-                
+                                
                 <div class="card mb-6">
                     <div class="blog-content">
                         <figure>
-                            <img class="card-img-top" src="media/pepe.jpg" alt="">
-                                <div class="card-body">
-                                   <img src='media/private/wybor.PNG' class="img-fluid" alt="">
-                                </div>
+                        <a href="media/retardy3.jpg">
+                            <img src="media/retardy3.jpg" class="img-fluid" alt="">
+                        </a>
                         </figure>
                     </div><!-- .portfolio-content -->
                 </div><!-- .col -->
-
-
             </div>
           
         

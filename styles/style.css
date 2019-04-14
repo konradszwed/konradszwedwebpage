@@ -4,15 +4,15 @@
  * Description: An example theme description.
  * Author: Konrad
  * Author URI: http://konradszwed.000webhostapp.com
- * Version: 0.1
- * Tags: threaded-comments, translation-ready, two-columns, fixed-width
- * License: GNU General Public License v2.0
- * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  */
 
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700|Work+Sans:300,400,500,600,700');
+/* Modal carousel */
+.modal.and.carousel {
+  position: fixed; 
+}
 
-
+/* /Modal carousel */
 /* Animations */
 
 /* /Animations */
