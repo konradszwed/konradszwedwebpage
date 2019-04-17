@@ -1,4 +1,4 @@
-<div class="outer-container portfolio-page">
+﻿<div class="outer-container portfolio-page">
     <div class="container-fluid">
         <div class="row">
             
@@ -6,7 +6,7 @@
                 <div class="portfolio-content entry-content flex flex-column  justify-content-center" style="visibility: visible; opacity: 1;">
                     <?php #echo file_get_contents('media/private/.txt'); ?>
                     
-                    <h1>Tworzenie serwisów internetowych</h1>
+                    <h1>Programowanie wszelakiej maści rzeczy użytkowych i tych mniej sensownych</h1>
                     <br/>
                     <h4><a href="https://github.com/konradszwed">Aktualnie rozwijane projekty znajdziecie na moim GitHubie <i class="fa fa-github" aria-hidden="true"></i></a></h4>
                     <br/>

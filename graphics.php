@@ -27,7 +27,7 @@
                 <div class="card mb-6">
                     <div class="blog-content">
                         <figure>
-                        <a href="media/waporwave.jpg">
+                        <a href="media/waporawave.jpg">
                             <img src="media/waporawave.jpg" class="img-fluid" alt="">
                         </a>
                         </figure>
